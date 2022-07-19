@@ -6,6 +6,7 @@
 
 body {
   margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 h1,
@@ -91,6 +92,7 @@ p {
   .text-start,
   h2 {
     text-align: center !important;
+    margin: 0 15px;
   }
   h1 {
     font-size: 60px;
@@ -103,5 +105,6 @@ p {
   .app-link {
     display: block;
     text-align: center;
+    margin: 0 15px;
   }
 }
